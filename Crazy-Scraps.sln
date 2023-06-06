@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crazy-Scraps", "Crazy-Scraps.csproj", "{A2A50A7F-184F-4A6A-9CDC-967FF4C16B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A50A7F-184F-4A6A-9CDC-967FF4C16B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A50A7F-184F-4A6A-9CDC-967FF4C16B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A50A7F-184F-4A6A-9CDC-967FF4C16B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A50A7F-184F-4A6A-9CDC-967FF4C16B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5221764-9B86-4511-9F05-0DBA618C51AB}
+	EndGlobalSection
+EndGlobal
